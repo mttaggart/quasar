@@ -1,0 +1,15 @@
+{
+  "name": "quasar",
+  "version": "0.1.0",
+  "description": "ASAR manipulation made easy",
+  "main": "index.js",
+  "repository": "git@github.com:mttaggart/quasar.git",
+  "author": "Michael Taggart <mtaggart@taggart-tech.com>",
+  "license": "MIT",
+  "dependencies": {
+    "asar": "^3.2.0",
+    "commander": "^9.4.0",
+    "fs-extra": "^10.1.0",
+    "readline-sync": "^1.4.10"
+  }
+}
