@@ -1,5 +1,7 @@
 # quASAR
 
+![quasar](./quasar.png)
+
 quASAR: ASAR manipulation made easy
 
 This project is a proof-of-concept for manipulating ASAR files for code injection in Electron apps.
